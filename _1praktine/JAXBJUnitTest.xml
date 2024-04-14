@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ReisasList>
+    <Reisas id="0">
+        <adresas>adresas</adresas>
+        <uzsakovas>
+            <id>0</id>
+            <FirstName>Tadas</FirstName>
+            <Lastname>T</Lastname>
+            <telefonoNumeris>123</telefonoNumeris>
+        </uzsakovas>
+        <vairuotojas>
+            <id>0</id>
+            <FirstName>Tadas</FirstName>
+            <Lastname>T</Lastname>
+            <telefonoNumeris>123</telefonoNumeris>
+        </vairuotojas>
+        <autobusas>
+            <spalva>Baltas</spalva>
+            <valstybinisNumeris>TMV:098</valstybinisNumeris>
+            <vietuSkaicius>23</vietuSkaicius>
+        </autobusas>
+    </Reisas>
+</ReisasList>
+

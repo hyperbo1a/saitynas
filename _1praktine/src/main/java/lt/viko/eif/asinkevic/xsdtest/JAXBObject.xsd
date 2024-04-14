@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="id" type="xs:string"/>
+  <xs:element name="FirstName" type="xs:string"/>
+  <xs:element name="Lastname" type="xs:string"/>
+  <xs:element name="telefonoNumeris" type="xs:string"/>
+  <xs:element name="valstybinisNumeris" type="xs:string"/>
+  <xs:element name="spalva" type="xs:string"/>
+  <xs:element name="vietuSkaicius" type="xs:int"/>
+  <xs:element name="adresas" type="xs:string"/>
+  <xs:element name="uzsakovas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="id"/>
+        <xs:element ref="FirstName"/>
+        <xs:element ref="Lastname"/>
+        <xs:element ref="telefonoNumeris"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="vairuotojas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="id"/>
+        <xs:element ref="FirstName"/>
+        <xs:element ref="Lastname"/>
+        <xs:element ref="telefonoNumeris"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="autobusas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="spalva"/>
+        <xs:element ref="valstybinisNumeris"/>
+        <xs:element ref="vietuSkaicius"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Reisas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="adresas"/>
+        <xs:element ref="uzsakovas"/>
+        <xs:element ref="vairuotojas"/>
+        <xs:element ref="autobusas"/>
+      </xs:sequence>
+      <xs:attribute type="xs:string" name="id" use="optional"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ReisasList">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Reisas" maxOccurs="unbounded" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

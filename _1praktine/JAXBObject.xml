@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ReisasList>
+    <Reisas id="1">
+        <adresas>Ozo g 53</adresas>
+        <uzsakovas>
+            <id>3</id>
+            <FirstName>Tomas</FirstName>
+            <Lastname>Kavaliauskas</Lastname>
+            <telefonoNumeris>+37098765432</telefonoNumeris>
+        </uzsakovas>
+        <vairuotojas>
+            <id>4</id>
+            <FirstName>Tomas</FirstName>
+            <Lastname>Trojanovskis</Lastname>
+            <telefonoNumeris>+37098765432</telefonoNumeris>
+        </vairuotojas>
+        <autobusas>
+            <spalva>Juodas</spalva>
+            <valstybinisNumeris>OKN:389</valstybinisNumeris>
+            <vietuSkaicius>28</vietuSkaicius>
+        </autobusas>
+    </Reisas>
+    <Reisas id="5">
+        <adresas>Ukmerges g 50</adresas>
+        <uzsakovas>
+            <id>7</id>
+            <FirstName>Jonas</FirstName>
+            <Lastname>Mackonis</Lastname>
+            <telefonoNumeris>+37087654320</telefonoNumeris>
+        </uzsakovas>
+        <vairuotojas>
+            <id>8</id>
+            <FirstName>Mantas</FirstName>
+            <Lastname>Zuvoskis</Lastname>
+            <telefonoNumeris>+37012345678</telefonoNumeris>
+        </vairuotojas>
+        <autobusas>
+            <spalva>Juodas</spalva>
+            <valstybinisNumeris>ABZ:736</valstybinisNumeris>
+            <vietuSkaicius>27</vietuSkaicius>
+        </autobusas>
+    </Reisas>
+    <Reisas id="9">
+        <adresas>Ozo g 53</adresas>
+        <uzsakovas>
+            <id>11</id>
+            <FirstName>Laurynas</FirstName>
+            <Lastname>Kavaliauskas</Lastname>
+            <telefonoNumeris>+37012345679</telefonoNumeris>
+        </uzsakovas>
+        <vairuotojas>
+            <id>12</id>
+            <FirstName>Dovydas</FirstName>
+            <Lastname>Kazlauskas</Lastname>
+            <telefonoNumeris>+37012345678</telefonoNumeris>
+        </vairuotojas>
+        <autobusas>
+            <spalva>Baltas</spalva>
+            <valstybinisNumeris>PLH:182</valstybinisNumeris>
+            <vietuSkaicius>23</vietuSkaicius>
+        </autobusas>
+    </Reisas>
+    <Reisas id="13">
+        <adresas>Kostiuskos g 2</adresas>
+        <uzsakovas>
+            <id>15</id>
+            <FirstName>Arturas</FirstName>
+            <Lastname>Mackonis</Lastname>
+            <telefonoNumeris>+37087654321</telefonoNumeris>
+        </uzsakovas>
+        <vairuotojas>
+            <id>16</id>
+            <FirstName>Arturas</FirstName>
+            <Lastname>Silaikis</Lastname>
+            <telefonoNumeris>+37012345679</telefonoNumeris>
+        </vairuotojas>
+        <autobusas>
+            <spalva>Raudonas</spalva>
+            <valstybinisNumeris>ATL:839</valstybinisNumeris>
+            <vietuSkaicius>27</vietuSkaicius>
+        </autobusas>
+    </Reisas>
+    <Reisas id="17">
+        <adresas>Kostiuskos g 2</adresas>
+        <uzsakovas>
+            <id>19</id>
+            <FirstName>Laurynas</FirstName>
+            <Lastname>Kirovskij</Lastname>
+            <telefonoNumeris>+37098765433</telefonoNumeris>
+        </uzsakovas>
+        <vairuotojas>
+            <id>20</id>
+            <FirstName>Lukas</FirstName>
+            <Lastname>Trojanovskis</Lastname>
+            <telefonoNumeris>+37098765433</telefonoNumeris>
+        </vairuotojas>
+        <autobusas>
+            <spalva>Juodas</spalva>
+            <valstybinisNumeris>HJM:864</valstybinisNumeris>
+            <vietuSkaicius>26</vietuSkaicius>
+        </autobusas>
+    </Reisas>
+    <Reisas id="21">
+        <adresas>Kalvariju g 41</adresas>
+        <uzsakovas>
+            <id>23</id>
+            <FirstName>Arnas</FirstName>
+            <Lastname>Sinkevic</Lastname>
+            <telefonoNumeris>+37098765431</telefonoNumeris>
+        </uzsakovas>
+        <vairuotojas>
+            <id>24</id>
+            <FirstName>Arnas</FirstName>
+            <Lastname>Kazlauskas</Lastname>
+            <telefonoNumeris>+37087654320</telefonoNumeris>
+        </vairuotojas>
+        <autobusas>
+            <spalva>Baltas</spalva>
+            <valstybinisNumeris>PLH:182</valstybinisNumeris>
+            <vietuSkaicius>24</vietuSkaicius>
+        </autobusas>
+    </Reisas>
+    <Reisas id="25">
+        <adresas>Kostiuskos g 2</adresas>
+        <uzsakovas>
+            <id>27</id>
+            <FirstName>Dovydas</FirstName>
+            <Lastname>Trojanovskis</Lastname>
+            <telefonoNumeris>+37098765432</telefonoNumeris>
+        </uzsakovas>
+        <vairuotojas>
+            <id>28</id>
+            <FirstName>Jonas</FirstName>
+            <Lastname>Silaikis</Lastname>
+            <telefonoNumeris>+37012345678</telefonoNumeris>
+        </vairuotojas>
+        <autobusas>
+            <spalva>Baltas</spalva>
+            <valstybinisNumeris>HJM:864</valstybinisNumeris>
+            <vietuSkaicius>27</vietuSkaicius>
+        </autobusas>
+    </Reisas>
+    <Reisas id="29">
+        <adresas>Kostiuskos g 2</adresas>
+        <uzsakovas>
+            <id>31</id>
+            <FirstName>Laurynas</FirstName>
+            <Lastname>Mackonis</Lastname>
+            <telefonoNumeris>+37098765431</telefonoNumeris>
+        </uzsakovas>
+        <vairuotojas>
+            <id>32</id>
+            <FirstName>Lukas</FirstName>
+            <Lastname>Kavaliauskas</Lastname>
+            <telefonoNumeris>+37012345678</telefonoNumeris>
+        </vairuotojas>
+        <autobusas>
+            <spalva>Juodas</spalva>
+            <valstybinisNumeris>HJM:864</valstybinisNumeris>
+            <vietuSkaicius>24</vietuSkaicius>
+        </autobusas>
+    </Reisas>
+    <Reisas id="33">
+        <adresas>Lakunu 23</adresas>
+        <uzsakovas>
+            <id>35</id>
+            <FirstName>Dovydas</FirstName>
+            <Lastname>Gudelis</Lastname>
+            <telefonoNumeris>+37087654321</telefonoNumeris>
+        </uzsakovas>
+        <vairuotojas>
+            <id>36</id>
+            <FirstName>Laurynas</FirstName>
+            <Lastname>Mackonis</Lastname>
+            <telefonoNumeris>+37087654320</telefonoNumeris>
+        </vairuotojas>
+        <autobusas>
+            <spalva>Baltas</spalva>
+            <valstybinisNumeris>PLH:182</valstybinisNumeris>
+            <vietuSkaicius>20</vietuSkaicius>
+        </autobusas>
+    </Reisas>
+    <Reisas id="37">
+        <adresas>Kauno g 42</adresas>
+        <uzsakovas>
+            <id>39</id>
+            <FirstName>Jonas</FirstName>
+            <Lastname>Mackonis</Lastname>
+            <telefonoNumeris>+37098765433</telefonoNumeris>
+        </uzsakovas>
+        <vairuotojas>
+            <id>40</id>
+            <FirstName>Laurynas</FirstName>
+            <Lastname>Sinkevic</Lastname>
+            <telefonoNumeris>+37012345679</telefonoNumeris>
+        </vairuotojas>
+        <autobusas>
+            <spalva>Raudonas</spalva>
+            <valstybinisNumeris>PLH:182</valstybinisNumeris>
+            <vietuSkaicius>23</vietuSkaicius>
+        </autobusas>
+    </Reisas>
+</ReisasList>

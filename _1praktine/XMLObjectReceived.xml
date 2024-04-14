@@ -1,0 +1,24 @@
+
+<ReisasList>
+    <Reisas id="1">
+        <adresas>Rygos g 5</adresas>
+        <uzsakovas>
+            <id>2</id>
+            <FirstName>Tomas</FirstName>
+            <Lastname>Kavaliauskas</Lastname>
+            <telefonoNumeris>+37098765432</telefonoNumeris>
+        </uzsakovas>
+        <vairuotojas>
+            <id>4</id>
+            <spalva>Balta</spalva>
+            <valstybinisNumeris>HHH:000</valstybinisNumeris>
+            <vietuSkaicius>300</vietuSkaicius>
+        </vairuotojas>
+        <autobusas>
+            <FirstName>Jonas</FirstName>
+            <Lastname>Jonaitis</Lastname>
+            <telefonoNumeris>+37098765431</telefonoNumeris>
+        </autobusas>
+    </Reisas>
+</ReisasList>
+
